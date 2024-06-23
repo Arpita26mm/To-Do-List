@@ -1,6 +1,5 @@
 
-
-![20240622_144148_0000](https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/dfa01b9b-0d95-4076-85f2-a899268ff661)
+![20240622_144148_0000](https://github.com/Arpita26mm/To-Do-List/assets/100471667/6fe9e6e9-b42f-4e4b-93e2-7b6baf9964d1)
 
 
 # ⏰TODOX : To-do-List app
@@ -32,7 +31,7 @@ TODOX is a to-do-list application. It is a simple and easy-to-use app that helps
 ## ✨ Preview
 
 <p align="center">
-  <img src="https://github.com/Arpita26mm/FS-File_Sharing_App/assets/100471667/430e98f2-6ebc-4db4-ab98-a7331fad56e5" alt="Description of image 1" width="800" height="470.5">
+  <img src="https://github.com/Arpita26mm/To-Do-List/assets/100471667/d3b5c523-1b91-4dad-8381-24344d847a26" alt="Description of image 1" width="800" height="470.5">
 </p>
 
 
